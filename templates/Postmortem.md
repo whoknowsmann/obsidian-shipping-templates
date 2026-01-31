@@ -1,7 +1,39 @@
-# Postmortem
+# Postmortem: {{title}}
 
-## What worked
+> Learn fast. Don't repeat mistakes. Don't forget wins.
 
-## What failed
+**Project:** 
+**Date:** {{date}}
+**Outcome:** Shipped / Killed / Paused
 
-## What to change next time
+---
+
+## What Worked
+<!-- Keep doing this. -->
+- 
+- 
+- 
+
+## What Failed
+<!-- Stop doing this. Or fix it. -->
+- 
+- 
+- 
+
+## What Surprised You
+<!-- Good or bad. What didn't you expect? -->
+- 
+
+## What To Change Next Time
+<!-- Concrete actions, not vague intentions. -->
+1. 
+2. 
+3. 
+
+## Was It Worth It?
+<!-- Honest gut check. Would you do it again? -->
+
+
+---
+
+*Filed for future reference. Link to original [[Project]] note if applicable.*

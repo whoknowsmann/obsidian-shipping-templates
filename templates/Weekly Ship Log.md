@@ -1,13 +1,27 @@
-# Weekly Ship Log
+# Week of {{date}}
 
-## Week starting date
+> Ship something every week. Even if it's small. Momentum > perfection.
 
-## What shipped
+## 🎯 This Week's Target
+<!-- One thing that WILL ship by Friday. Not "work on" — ship. -->
 
-## What didn’t ship
 
-## Why
+## ✅ What Shipped
+<!-- List everything that went live, got published, got delivered. -->
+- 
 
-## Blockers
+## ❌ What Didn't Ship
+<!-- No shame. Just track it. -->
+- 
 
-## Next week focus
+## 🚧 Blockers
+<!-- What got in the way? Be honest. -->
+- 
+
+## 🔍 Why
+<!-- Quick reflection. What happened this week? -->
+
+
+## ➡️ Next Week Focus
+<!-- Set it now while context is fresh. -->
+
